@@ -1,3 +1,8 @@
 .settings/
 target/
 activemq-data/
+.classpath
+.project
+blah.txt
+derby.log
+mule-project.xml
